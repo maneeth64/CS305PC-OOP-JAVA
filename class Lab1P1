@@ -1,0 +1,13 @@
+class LabP1{
+	public static void main(string...args){
+		byte b = 153;
+		Byte bb = b;
+		
+		//int x = 200;
+		//byte b = x;
+		
+		system.out.println(b.MAX_VALUE);
+			
+	}
+	
+}
